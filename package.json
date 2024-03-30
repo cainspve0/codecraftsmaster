@@ -1,0 +1,33 @@
+{
+  "name": "codecraftsmaster",
+  "version": "1.0.2",
+  "description": "codecraftsmaster",
+  "type": "module",
+  "main": "codecraftsmaster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cainspve/codecraftsmaster"
+  },
+  "website": "https://github.com/cainspve/codecraftsmaster.git",
+  "keywords": [
+    "codecraftsmaster"
+  ],
+  "author": "cainspve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cainspve/codecraftsmaster/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/cainspve/codecraftsmaster#readme",
+  "dependencies": {
+    "scriptcraftbox": "1.0.2",
+    "codewhiz": "1.0.2",
+    "programgenius": "1.0.2"
+  }
+}
